@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Cristian
 
-<!--
-**cristiandlv/cristiandlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Frontend Developer Jr. desde Buenos Aires, Argentina  
+🎓 Egresado del bootcamp SoyHenry  
+🛠️ Tecnologías: JavaScript · React · Next.js · Tailwind · HTML · CSS · Git  
+🔍 Formación adicional en testing manual y cursos previos como Argentina Programa  
+🌱 En proceso de crecimiento constante y aprendizaje en el mundo IT  
+💼 Buscando mi primera experiencia laboral como Frontend Developer o Web Developer  
 
-Here are some ideas to get you started:
+📌 Proyectos destacados:  
+- E-commerce esotérico "Arcana" (Proyecto final bootcamp)  
+- Mini proyectos con React y HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Conectá conmigo en [LinkedIn] https://www.linkedin.com/in/cristian-de-la-vega
