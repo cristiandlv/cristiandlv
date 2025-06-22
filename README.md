@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📫 Conectá conmigo en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][(https://linkedin.com/in/tuusuario)](https://www.linkedin.com/in/cristian-de-la-vega)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][(https://www.linkedin.com/in/cristian-de-la-vega)]
 [![Gmail](https://img.shields.io/badge/Email-coral?style=flat&logo=gmail&logoColor=white)](mailto:dlvcristian@gmail.com)
 
 ---
